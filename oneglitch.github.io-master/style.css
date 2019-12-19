@@ -1,0 +1,38 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.sans-font {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.intti-p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+.intti-bg {
+    background-image: url("./resources/intti_bg.png");
+    background-size: cover;
+    background-color: black;
+}
+
+.store-badge {
+    height: 100px;
+}
+
+.intti-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
