@@ -1,2 +1,4 @@
 mainText,imageUrl,buttonText,link,frequencyFactor
 Ota ensikosketus osakesijoittamiseen Nordnetissä,-,Avaa maksuton sijoitussalkku,https://adtr.co/8bRqFU,1
+Suojaa selailusi VPN:llä,-,www.nordvpn.com,https://adtr.co/1ChQHU
+Puhelimen varaosat ja suojakuoret edullisesti: -10% koodilla "PUF10"!,-,puhelinfix.fi,https://adtr.co/j85vk6
