@@ -1,2 +1,0 @@
-mainText,tag,buttonText,link,frequencyFactor
-Esimerkkimainos esimerkkimainos,tag,Paina tästä :D,https://track.adtraction.com/t/t?a=1441926111&as=1473585414&t=2&tk=1,1
