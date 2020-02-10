@@ -1,2 +1,2 @@
 mainText,imageUrl,buttonText,link,frequencyFactor
-Esimerkkimainos esimerkkimainos,https://www.oneglitch.com/resources/og_logo_darker_medium.png,Paina tästä :D,https://www.youtube.com/,1
+Ota ensikosketus osakesijoittamiseen Nordnetissä,-,Avaa maksuton sijoitussalkku,https://adtr.co/8bRqFU
