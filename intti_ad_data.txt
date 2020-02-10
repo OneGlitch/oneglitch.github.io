@@ -1,2 +1,2 @@
-mainText,tag,buttonText,link,frequencyFactor
-Esimerkkimainos esimerkkimainos,tag,Paina tästä :D,https://www.youtube.com/,1
+mainText,imageUrl,buttonText,link,frequencyFactor
+Esimerkkimainos esimerkkimainos,https://www.oneglitch.com/resources/og_logo_darker_medium.png,Paina tästä :D,https://www.youtube.com/,1
