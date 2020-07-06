@@ -1,12 +1,1 @@
-mainText;imageUrl;buttonText;link;frequencyFactor
-Ota ensikosketus osakesijoittamiseen Nordnetissä.;-;Avaa maksuton sijoitussalkku;https://adtr.co/8bRqFU;3
-Suojaa selailusi VPN:llä — myös mobiilissa.;-;Hanki PrivateVPN;https://adtr.co/E9SvwQ;2
-Suojaa selailusi VPN:llä — myös mobiilissa.;-;Hanki NordVPN;https://adtr.co/1ChQHU;2
-Puhelinfix — puhelimen varaosat ja suojakuoret edullisesti.;-;puhelinfix.fi;https://adtr.co/j85vk6;3
-Osallistu arvontaan ja voita 1000€ matkalahjakortti.;-;Vastaa kyselyyn;https://adtr.co/OUEpxh;1
-Osallistu arvontaan ja voita 1000€ ruokalahjakortti.;-;Vastaa kyselyyn;https://adtr.co/h4O7Ae;1
-Osallistu arvontaan ja voita 1000€ polttoainelahjakortti.;-;Vastaa kyselyyn;https://adtr.co/Rstpa9;1
-Akut, moottorit, suodattimet, jarrut... — varaosat joka autoon Todolta.;-;Kaara kuntoon;https://adtr.co/xUryEn;2
-AutoJerry - kilpailuta autohuoltosi ja säästä rahaa.;-;Pyydä huoltotarjous;https://autojerry.fi/tt/?tt=22359_12_370488_;2
-Jaa mielipiteesi kyselyissä ja lunasta palkintoja.;-;MielipideMaailma;https://tc.tradetracker.net/?c=3244&m=12&a=370488;2
-Huipputehokkaat peliluurit löytyy Blacksharkilta.;-;Blackshark-kauppa;https://tc.tradetracker.net/?c=30085&m=12&a=370488&u=%2Fproducts%2Fblackshark2;1
+
