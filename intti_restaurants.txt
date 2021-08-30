@@ -1,6 +1,6 @@
 name,location,link
 Ankkuri,Kirkkonummi,http://ruokalistat.leijonacatering.fi/rss/2/1/7566faa6-f813-e511-892b-78e3b50298fc
-Cirrus,Nurmijärvi,http://ruokalistat.leijonacatering.fi/rss/2/1/1523c930-f813-e511-892b-78e3b50298fc
+Cirrus,Siilinjärvi,http://ruokalistat.leijonacatering.fi/rss/2/1/1523c930-f813-e511-892b-78e3b50298fc
 Creutz,Raasepori,http://ruokalistat.leijonacatering.fi/rss/2/1/65b125f6-f713-e511-892b-78e3b50298fc
 Falkonetti,Kankaanpää,http://ruokalistat.leijonacatering.fi/rss/2/1/25022d4c-f813-e511-892b-78e3b50298fc
 Hilma,Helsinki,http://ruokalistat.leijonacatering.fi/rss/2/1/55949a7b-f813-e511-892b-78e3b50298fc
