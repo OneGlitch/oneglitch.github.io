@@ -1,4 +1,5 @@
 2019
+330,https://www.youtube.com/watch?v=R7amvClktus
 300,https://www.youtube.com/watch?v=oj9fEOQ3ELk
 270,https://www.youtube.com/watch?v=26zVagt8bck
 247,https://www.youtube.com/watch?v=5v6Tf4vLb7A
@@ -16,7 +17,7 @@
 105,https://www.youtube.com/watch?v=rgRZ2fSMfDI
 102,https://www.youtube.com/watch?v=9fHWyxjYpW4
 101,https://www.youtube.com/watch?v=kZF8SJmQlMc
-100,https://www.youtube.com/watch?v=7e5aRi_YKbM
+100,https://www.youtube.com/watch?v=7e5aRi_YKbM,https://www.youtube.com/watch?v=7YXRqiZiBSo
 99,https://www.youtube.com/watch?v=AMqV4cNNAx8
 97,https://www.youtube.com/watch?v=YRQT_aWvqaw
 95,https://www.youtube.com/watch?v=3atJWUBl76I
@@ -58,14 +59,14 @@
 27,https://www.youtube.com/watch?v=KTtPTfIef2g
 25,https://www.youtube.com/watch?v=1CrxzClzLvs
 24,https://www.youtube.com/watch?v=ENg4DVv_Yac
-23,https://www.youtube.com/watch?v=u2nfkTCwazY
+23,https://www.youtube.com/watch?v=8XTMmLZPxYY,https://www.youtube.com/watch?v=u2nfkTCwazY
 22,https://www.youtube.com/watch?v=GFE8MF6iWe0
 21,https://www.youtube.com/watch?v=y0RH-aKoAro
-20,https://www.youtube.com/watch?v=OgMxyPdkSQg
+20,https://www.youtube.com/watch?v=RzCSvS2_pxo,https://www.youtube.com/watch?v=OgMxyPdkSQg
 19,https://www.youtube.com/watch?v=yeYWbkc5Ht0
 18,https://www.youtube.com/watch?v=Fl7E2MXSXlY
 17,https://www.youtube.com/watch?v=xFrGuyw1V8s
-16,https://www.youtube.com/watch?v=9NEuj27TCU8
+16,https://www.youtube.com/watch?v=VtuwEH-GH5k,https://www.youtube.com/watch?v=9NEuj27TCU8
 15,https://www.youtube.com/watch?v=qQBLZMULSbo
 14,https://www.youtube.com/watch?v=Cvwod3GWgqk
 13,https://www.youtube.com/watch?v=CP2OZK4d8-I
@@ -78,6 +79,6 @@
 5,https://www.youtube.com/watch?v=4h6YRPe-o0Y
 4,https://www.youtube.com/watch?v=6GzipW_noec
 3,https://www.youtube.com/watch?v=8C5eXN8DWEs
-2,https://www.youtube.com/watch?v=LIYRiNKQ7fk
-1,https://www.youtube.com/watch?v=DvbvCKz3yss
-0,https://www.youtube.com/watch?v=4W1TgmeC1XY
+2,https://www.youtube.com/watch?v=9UIcMqnAWfc,https://www.youtube.com/watch?v=LIYRiNKQ7fk
+1,https://www.youtube.com/watch?v=DvbvCKz3yss,https://www.youtube.com/watch?v=fwK7ggA3-bU
+0,https://www.youtube.com/watch?v=4W1TgmeC1XY,https://www.youtube.com/watch?v=xUNqsfFUwhY
