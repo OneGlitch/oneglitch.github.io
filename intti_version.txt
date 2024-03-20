@@ -1,2 +1,2 @@
-android;1.7.0
+android;1.7.0.1
 ios;1.6.0
