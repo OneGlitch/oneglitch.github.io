@@ -1,3 +1,3 @@
 active;prop-id;link
-1;card_deck_1;https://inttikama.etsy.com/listing/1473448098
+1;card_deck_1;https://www.etsy.com/fi-en/listing/1473448098/intti-korttipakka
 0;watch_91w_1;https://www.etsy.com/fi-en/listing/1473448098/intti-korttipakka
