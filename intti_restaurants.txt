@@ -1,5 +1,5 @@
 name,location,link,version
-Ankkuri,Kirkkonummi,https://menu.leijonacatering.fi/AromieMenus/FI/Default/Leijona/RubenParola/Rss.aspx?Id=4911192a-210a-477f-93e0-49b14654c1ec&DateMode=1,2
+Ankkuri,Kirkkonummi,https://menu.leijonacatering.fi/AromieMenus/FI/Default/Leijona/AnkkuriUpinniemi/Rss.aspx?Id=f7f85df9-33d8-4469-976c-79634f7374ce&DateMode=1,2
 Cirrus,Siilinjärvi,http://ruokalistat.leijonacatering.fi/rss/2/1/1523c930-f813-e511-892b-78e3b50298fc
 Creutz,Raasepori,http://ruokalistat.leijonacatering.fi/rss/2/1/65b125f6-f713-e511-892b-78e3b50298fc
 Falkonetti,Kankaanpää,http://ruokalistat.leijonacatering.fi/rss/2/1/25022d4c-f813-e511-892b-78e3b50298fc
@@ -13,7 +13,7 @@ Luonetti,Jyväskylä,http://ruokalistat.leijonacatering.fi/rss/2/1/2576a07c-f913
 Poiju,Turku,http://ruokalistat.leijonacatering.fi/rss/2/1/35121e9f-f813-e511-892b-78e3b50298fc
 Raakuna,Lappeenranta,http://ruokalistat.leijonacatering.fi/rss/2/1/65494b38-f813-e511-892b-78e3b50298fc
 Rokka,Hamina,http://ruokalistat.leijonacatering.fi/rss/2/1/a5cbc816-f813-e511-892b-78e3b50298fc
-Ruben,Hattula,http://ruokalistat.leijonacatering.fi/rss/2/1/65071957-f813-e511-892b-78e3b50298fc
+Ruben,Hattula,https://menu.leijonacatering.fi/AromieMenus/FI/Default/Leijona/RubenParola/Rss.aspx?Id=4911192a-210a-477f-93e0-49b14654c1ec&DateMode=1,2
 Rumpalinpoika,Säkylä,http://ruokalistat.leijonacatering.fi/rss/2/1/25f04a86-f813-e511-892b-78e3b50298fc
 Sahara,Helsinki,http://ruokalistat.leijonacatering.fi/rss/2/1/549339f9-e510-e511-892b-78e3b50298fc
 Somero,Rovaniemi,http://ruokalistat.leijonacatering.fi/rss/2/1/95788a67-f813-e511-892b-78e3b50298fc
