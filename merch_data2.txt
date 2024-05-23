@@ -1,0 +1,3 @@
+active;prop-id;link
+1;card_deck_1;http://www.inttikama.fi/products/intti-pelikortit-finnish-army-playing-cards
+0;watch_91w_1;http://www.inttikama.fi/products/intti-pelikortit-finnish-army-playing-cards
