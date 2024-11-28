@@ -2,3 +2,4 @@ active;prop-id;link
 1;card_deck_1;http://www.inttikama.fi/products/intti-pelikortit-finnish-army-playing-cards
 1;dangler_branch_kulju;https://www.inttikama.fi/collections/autonraikastimet
 1;cap_denssi;https://www.inttikama.fi/collections/autonraikastimet
+1;pillows;https://www.inttikama.fi/collections/taistelutyynyt
