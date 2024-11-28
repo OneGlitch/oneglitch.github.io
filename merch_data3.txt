@@ -3,3 +3,4 @@ active;prop-id;link
 1;dangler_branch_kulju;https://www.inttikama.fi/collections/autonraikastimet
 1;cap_denssi;https://www.inttikama.fi/collections/autonraikastimet
 1;pillow_1;https://www.inttikama.fi/collections/taistelutyynyt
+1;mine_yellow;https://www.inttikama.fi/collections/avaimenperat
