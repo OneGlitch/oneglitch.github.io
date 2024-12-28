@@ -4,3 +4,4 @@ active;prop-id;link
 1;dangler_branch_kulju;https://www.inttikama.fi/collections/autonraikastimet
 1;mine_yellow;https://www.inttikama.fi/collections/avaimenperat
 1;cap_denssi;https://www.inttikama.fi/products/denssiklikkeri-cappi
+1;rank_keychain_alik;https://www.inttikama.fi/collections/avaimenperat-arvomerkit
