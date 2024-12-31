@@ -1,2 +1,1 @@
 text;url
--10% kaikista tilauksista!;https://www.inttikama.fi/
