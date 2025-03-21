@@ -1,2 +1,2 @@
 text;url
--2€ koodilla "LAUKAUS";www.inttikama.fi
+-2€ koodilla "LAUKAUS";https://www.inttikama.fi
