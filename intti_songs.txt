@@ -9,10 +9,10 @@
 190,https://www.youtube.com/watch?v=lYaIFvRqv2k
 180,https://www.youtube.com/watch?v=ptPXxAds1Jc
 164,https://www.youtube.com/watch?v=4_b_pyOkqDE
-150,https://www.youtube.com/watch?v=SNT51Vptsi4
-138,https://www.youtube.com/watch?v=SOqVs-K1eEo
+150,https://www.youtube.com/watch?v=6MsvlThP5ZI
+138,https://www.youtube.com/watch?v=fEtnKeaLZDE
 123,https://www.youtube.com/watch?v=u22rJTHQiVk
-122,https://www.youtube.com/watch?v=-Qap8iq6uts
+122,https://www.youtube.com/watch?v=egKQnydHckE
 115,https://www.youtube.com/watch?v=-B19u9tHnIs
 112,https://www.youtube.com/watch?v=iN43sSF-Q3k
 105,https://www.youtube.com/watch?v=rgRZ2fSMfDI
@@ -40,6 +40,7 @@
 70,https://www.youtube.com/watch?v=0nl3hNsFU7I
 69,https://www.youtube.com/watch?v=9f06QZCVUHg
 68,https://www.youtube.com/watch?v=F6y5BI9qlfo
+67,https://www.youtube.com/watch?v=XnygT6ANLzQ
 66,https://www.youtube.com/watch?v=tg2EbJy-9dc
 65,https://www.youtube.com/watch?v=UX8eaCoVq04
 60,https://www.youtube.com/watch?v=YsIJHAbI-l8
@@ -52,7 +53,7 @@
 44,https://www.youtube.com/watch?v=4EVFKrmXFmA
 43,https://www.youtube.com/watch?v=hfCjW2QUol0
 40,https://www.youtube.com/watch?v=bFb2saRU1Kc
-39,https://www.youtube.com/watch?v=yiTf45TrwBc
+39,https://www.youtube.com/watch?v=lwdnHe2MfgY
 38,https://www.youtube.com/watch?v=L39Qo5OE13U
 35,https://www.youtube.com/watch?v=o0GDORwHP7g
 34,https://www.youtube.com/watch?v=2dTqWt15ruM
@@ -66,7 +67,7 @@
 21,https://www.youtube.com/watch?v=y0RH-aKoAro
 20,https://www.youtube.com/watch?v=RzCSvS2_pxo,https://www.youtube.com/watch?v=OgMxyPdkSQg
 19,https://www.youtube.com/watch?v=yeYWbkc5Ht0
-18,https://www.youtube.com/watch?v=Fl7E2MXSXlY
+18,https://www.youtube.com/watch?v=rZ6Ec7ag4gk
 17,https://www.youtube.com/watch?v=xFrGuyw1V8s
 16,https://www.youtube.com/watch?v=VtuwEH-GH5k,https://www.youtube.com/watch?v=9NEuj27TCU8
 15,https://www.youtube.com/watch?v=qQBLZMULSbo
