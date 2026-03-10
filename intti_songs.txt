@@ -43,6 +43,7 @@
 67,https://www.youtube.com/watch?v=XnygT6ANLzQ
 66,https://www.youtube.com/watch?v=tg2EbJy-9dc
 65,https://www.youtube.com/watch?v=UX8eaCoVq04
+61,https://www.youtube.com/watch?v=8hr3Stnk8_k
 60,https://www.youtube.com/watch?v=YsIJHAbI-l8
 56,https://www.youtube.com/watch?v=9HyumeBmLWc
 50,https://www.youtube.com/watch?v=A4omexp-GzI
@@ -52,6 +53,7 @@
 45,https://www.youtube.com/watch?v=GFE8MF6iWe0
 44,https://www.youtube.com/watch?v=4EVFKrmXFmA
 43,https://www.youtube.com/watch?v=hfCjW2QUol0
+42,https://www.youtube.com/watch?v=ez6eauLcOuc
 40,https://www.youtube.com/watch?v=bFb2saRU1Kc
 39,https://www.youtube.com/watch?v=lwdnHe2MfgY
 38,https://www.youtube.com/watch?v=L39Qo5OE13U
