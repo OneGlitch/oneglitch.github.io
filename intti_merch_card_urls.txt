@@ -2,6 +2,7 @@ active;id;url
 1;mine_yellow;https://www.inttikama.fi/products/avaimenpera-harjoitustelamiina
 1;mine_green;https://www.inttikama.fi/products/avaimenpera-kova-telamiina
 1;bottle_green;https://www.inttikama.fi/products/avaimenpera-kenttapullo
+1;keychain_rk_silver;https://www.inttikama.fi/products/avaimenpera-rk-62
 1;cap_denssi;https://www.inttikama.fi/products/denssiklikkeri-cappi
 1;cap_pakuralli;https://www.inttikama.fi/products/pakuralli-cappi
 1;card_deck_1;https://www.inttikama.fi/products/intti-pelikortit-finnish-army-playing-cards
