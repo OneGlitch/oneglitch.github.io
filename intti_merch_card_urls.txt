@@ -9,3 +9,4 @@ active;id;url
 1;card_deck_1;https://www.inttikama.fi/products/intti-pelikortit-finnish-army-playing-cards
 1;kulju_freshener_blue;https://www.inttikama.fi/products/kulju-raikastin-manty
 1;kulju_freshener_red;https://www.inttikama.fi/products/kulju-raikastin-manty-copy
+1;patch_tj_green;https://www.inttikama.fi/products/kangasmerkki-tj0
